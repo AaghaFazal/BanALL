@@ -1,0 +1,6 @@
+# config.py
+
+class Config:
+    TELEGRAM_TOKEN = '7767984040:AAGTtH8zo0bcPccK7HkZbvqii1VmURa4n-U'
+    TELEGRAM_API_ID = '25983429'
+    TELEGRAM_API_HASH = 'a5d201a881e1cf7e21f05526a54ccf30'
