@@ -74,4 +74,3 @@ api_id = 'your_api_id'
 api_hash = 'your_api_hash'     
 bot_token = 'your_bot_token'   
 
-remove_log_file = 'remove.txt'  
